@@ -1,0 +1,11 @@
+{
+  "name": "tiktok-studio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Panel local para ver las estadísticas de @cea.crime.eee con la API oficial de TikTok",
+  "scripts": {
+    "start": "node server.mjs",
+    "demo": "node server.mjs --demo"
+  }
+}
